@@ -1,17 +1,18 @@
 # Hello Stranger!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[!(Blog)](https://img.shields.io/badge/Blog-%40Dongyifengs-red)
-<!--
-**Dongyifengs/Dongyifengs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Blog-%40Dongyifengs-blue)](dongyifengs.gitee.io)
+---
+<img align="right" alt="GIF" height="230px" src="https://cdn.jsdelivr.net/gh/TheZihanGu/TheZihanGu@master/img/HEAD.gif" />
 
-Here are some ideas to get you started:
+## This is Mo_Yi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I am Mo_Yi, a senior high student.
+
+I'm glad you can visit my Github.
+
+I like UI design, Python, Java, or ask you big guy a lot of advice  
+
+* 👨🏻‍💻 I am currently working on LTCatt/PCL2Help , if you are interested, welcome to help！
+
+* ❤ I like Minecraft！
+
