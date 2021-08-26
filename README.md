@@ -14,8 +14,8 @@ I like UI design, Python, Java, or ask you big guy a lot of advice
 
 * 👨🏻‍💻 I am currently working on LTCatt/PCL2Help , if you are interested, welcome to help！
 * [![PCL2Help](https://img.shields.io/badge/Repository-PCL2Help-blue)](https://github.com/LTCatt/PCL2Help)
-* [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dongyifengs&repo=github-readme-stats&amp:show_owner="true")](https://github.com/Dongyifengs/PCL2Help)
-* [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&amp:show_owner="true")](https://github.com/LTCatt/PCL2Help)
+* [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dongyifengs&repo=github-readme-stats&amp)](https://github.com/Dongyifengs/PCL2Help)
+* [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&amp)](https://github.com/LTCatt/PCL2Help)
 
 * ❤ I like Minecraft！
 
