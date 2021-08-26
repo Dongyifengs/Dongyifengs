@@ -16,3 +16,8 @@ I like UI design, Python, Java, or ask you big guy a lot of advice
 
 * ❤ I like Minecraft！
 
+## My Github Stats
+[![Dongyifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongyifengs&show_icons=true&theme=graywhite&count_private=true)](dongyifengs.gitee.io)
+
+## Most Used Lauguage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyifengs&layout=compact)](dongyifengs.gitee.io)
