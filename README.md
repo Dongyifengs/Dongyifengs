@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">兴趣就是动力</h3>
+<h3 align="center">Hi!这里是Dongyifengs的GitHub啦 👋</h3>
 
-<!--
-**Dongyifengs/Dongyifengs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<img src="https://github-readme-stats.vercel.app/api?username=Dongyifengs&show_icons=true">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 我目前正在做的
+  - <a target="_blank" href="https://github.com/Dongyifengs/html-study">Html的学习</a> 
+  - <a target="_blank" href="https://github.com/Dongyifengs/CloudGenshinCheckHelper">云原神自动签到项目</a> 
+- 🌱 我正在学习
+  - Html
+  - CSS
+  - JS
