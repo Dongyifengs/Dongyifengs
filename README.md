@@ -8,13 +8,8 @@
 #    
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dongyifengs&show_icons=true">
 
-
-
-## ✨ 很高兴认识你！
-这里是墨忆江南，会写点代码，玩玩 Mineceaft，总之很高兴认识你！多多指教！
-
-
 ## 🎯 喜欢
+这里是墨忆江南，会写点代码，玩玩 Mineceaft，总之很高兴认识你！多多指教！
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyifengs&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
