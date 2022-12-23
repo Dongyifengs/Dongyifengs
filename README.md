@@ -1,4 +1,4 @@
-<h3 align="center">世界上有趣的事那么多，没有什么值得我困顿一生</h3>
+<h3 align="center">人就是为了懒而活,不对吗?就像人不想长度跋涉而发明代步工具一样.</h3>
 
 <p align="center">
   <a target="_blank" href="https://moyi.playae.com/">Blog</a> •
@@ -24,4 +24,4 @@
 ### 操作系统
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=d64614&logo=Ubuntu&logoColor=ffffff&label=)
 
-还有可爱的你！
+兴趣就是动力!!
