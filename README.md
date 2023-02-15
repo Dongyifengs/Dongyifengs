@@ -7,6 +7,7 @@
 
 #    
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dongyifengs&show_icons=true">
+![](https://raw.githubusercontent.com/Dongyifengs/Dongyifengs/main/assets/github-contribution-grid-snake.svg)
 
 ## 🎯 喜欢
 这里是墨忆江南，会写点代码，玩玩 Mineceaft，总之很高兴认识你！多多指教！
