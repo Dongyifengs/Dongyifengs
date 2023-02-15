@@ -1,7 +1,7 @@
 <h3 align="center">人就是为了懒而活,不对吗?就像人不想长度跋涉而发明代步工具一样.</h3>
 
 <p align="center">
-  <a target="_blank" href="https://moyi.playae.com/">Blog</a> •
+  <a target="_blank" href="http://moyijiangnan.top">Blog</a> •
   <a target="_blank" href="dongyifengs@gmail.com">Email</a>
 </p>
 
